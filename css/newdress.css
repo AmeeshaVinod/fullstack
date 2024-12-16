@@ -1,0 +1,20 @@
+h1{
+    background-color: rgb(239, 170, 7); 
+    color: rgb(1, 1, 1); 
+    text-align: left;
+    }
+    h2{
+        color:black; 
+        text-align: center;
+    }
+    h3{
+        color:black; 
+        text-align: center;
+    }
+    button{
+        color:black; 
+        text-align: center;
+    }
+    div{
+        text-align: center;
+    }

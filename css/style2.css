@@ -1,0 +1,13 @@
+h1{
+    background-color: rgb(151, 144, 40);
+    font-style: oblique;
+    color: darkred;
+    border: 1px solid black;
+}
+body {
+background-image: url('https://thumbs.dreamstime.com/b/fairy-tale-forest-retro-style-paper-vintage-textured-mountain-landscape-nature-background-81956985.jpg');
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+  
